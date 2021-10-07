@@ -1,0 +1,75 @@
+#exercise 1 Lab 1 pseudocode
+
+start
+
+    #input
+        obtain number1
+        obtain number2
+
+    #process
+        product = number1 * number2
+
+    #Output
+        print product
+
+stop
+
+
+
+
+____________________________________________________________________
+
+
+
+#exercise 2 Lab 1 pseudocode
+
+
+
+start
+
+    #input
+        insert kilometers
+        
+
+    #process
+	#this formula will convert the km to miles
+        convKm = 0.62 
+        miles = kilometers * conv
+
+
+    #Output
+        display total
+
+
+
+stop
+
+
+____________________________________________________________________
+
+
+#exercise 3 Lab 1 pseudocode
+
+
+
+start
+
+    #input
+        insert miles
+        
+
+    #process
+	#this formula will convert the miles to km
+
+        convMi = 1
+        Kilometers = miles * conv
+
+
+    #Output
+        display total
+
+
+
+stop
+
+
